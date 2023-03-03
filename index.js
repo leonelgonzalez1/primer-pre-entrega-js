@@ -1,5 +1,5 @@
 
-//juego 1
+//juego1
 
 
 const nombre = prompt("ingrese su nombre")
@@ -47,7 +47,7 @@ alert ("correcto")
 alert("felicidades "+nombre) 
 
 
-//juego 2
+//juego2
 
 
 
